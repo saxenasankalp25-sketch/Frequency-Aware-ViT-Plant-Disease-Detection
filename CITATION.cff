@@ -1,1 +1,11 @@
 
+cff-version: 1.2.0
+message: "If you use this research code, please cite it."
+title: "Frequency-Aware Vision Transformer for Plant Disease Detection Using RGB and DFT Features"
+type: software
+authors:
+  - family-names: "Saxena"
+    given-names: "Sankalp"
+version: 1.0.0
+date-released: 2026-10-05
+repository-code: "https://github.com/saxenasankalp25-sketch/Frequency-Aware-ViT-Plant-Disease-Detection"
